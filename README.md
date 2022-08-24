@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swetha-devasenapathy
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning front end developing
-- How to reach me-mail:swethadev002@gmail.com
+- How to reach me-email:swethadev002@gmail.com
                 LinkedIn:www.linkedin.com/in/swetha-dev
 
 <!---
